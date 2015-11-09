@@ -1,0 +1,26 @@
+body{
+    background-color: #F2F2F2;
+    font-style: normal;
+    font-size: 14px;
+    color: #666666;
+}
+*{
+    font-size: 14px;
+}
+#msg
+{
+    color: red;
+}
+#select{
+    margin-bottom: 30px;
+
+}
+.slide{
+    width: 180px;
+    height: 180px;
+    display: none;
+    background-color: aliceblue;
+}
+.val{
+    display: none;
+}
